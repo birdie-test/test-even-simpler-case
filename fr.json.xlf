@@ -5,11 +5,11 @@
 <group id="sg1">
 <trans-unit id="tu1" resname="title" xml:space="preserve">
 <source xml:lang="en">Testing AI translations</source>
-<target xml:lang="fr"></target>
+<target xml:lang="fr">Tester les traductions par IA</target>
 </trans-unit>
 <trans-unit id="tu2" resname="body" xml:space="preserve">
 <source xml:lang="en">How to automate AI translations of the code changes?</source>
-<target xml:lang="fr"></target>
+<target xml:lang="fr">Comment automatiser les traductions par IA des modifications de code ?</target>
 </trans-unit>
 </group>
 </body>
